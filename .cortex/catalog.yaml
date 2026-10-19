@@ -1,0 +1,12 @@
+openapi: "3.0.0"
+info:
+  title: "mobile-app-android"
+  x-cortex-tag: "mobile-app-android"
+  x-cortex-description: "Android mobile application backend"
+  x-cortex-owners:
+    - type: group
+      name: "eCommerce Platform Team"
+  x-cortex-custom-metadata:
+    apm_id: "apm0001201"
+    apm_name: "Digital Storefront Platform"
+    cost_center: "CC-4210"
